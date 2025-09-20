@@ -89,25 +89,25 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
    Create a `config.env` file and add the following lines:
 
    ```sh
-   SESSION_ID=your_session_id_here
-   PREFIX=.
-   STICKER_PACKNAME=LyFE
-   ALWAYS_ONLINE=false
+   SESSION_ID=levanter_209de13373330446e4b4349dde1dc8ddd3
+   PREFIX=!
+   STICKER_PACKNAME=Tahyga 
+   ALWAYS_ONLINE=true
    RMBG_KEY=null
    LANGUAG=en
-   BOT_LANG=en
+   BOT_LANG=Fr
    WARN_LIMIT=3
    FORCE_LOGOUT=false
    BRAINSHOP=159501,6pq8dPiYt7PdqHz3
-   MAX_UPLOAD=200
+   MAX_UPLOAD=500
    REJECT_CALL=false
-   SUDO=989876543210
+   SUDO=50934009932
    TZ=Asia/Kolkata
    VPS=true
-   AUTO_STATUS_VIEW=true
-   SEND_READ=true
-   AJOIN=true
-   DISABLE_START_MESSAGE=false
+   AUTO_STATUS_VIEW=true 
+   SEND_READ=false
+   AJOIN=False
+   DISABLE_START_MESSAGE=true
    PERSONAL_MESSAGE=null
    ```
 
